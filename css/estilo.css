@@ -1,0 +1,216 @@
+/* CSS reset here*/
+
+* {
+    margin: 0px auto;
+    padding: 0px auto;
+    font-family: arial, sans-serif;
+}
+
+#contenedorPrincipal {
+    width: 1000px;
+    height: auto;
+    background: linear-gradient(180deg, #ffffff 0%, #f5f6f5 50%, #ffffff 100%);
+}
+
+.internet {
+    color: #474747;
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    font-weight: 100;
+    bottom: 79px;
+}
+
+.internet span {
+    color: #22649E;
+}
+
+#banner {
+    color: #FFFFFF;
+    padding-top: 15px;
+    background: -webkit-linear-gradient(#28689f, #4d7faa, #28689f);
+    margin-top: -75px;
+}
+
+#banner h1 {
+    font-weight: 100;
+    padding-left: 20px line
+}
+
+#caja1 {
+    background: linear-gradient(180deg, #eef8ff 0%, #f5f6f5 50%, #ffffff 100%);
+    display: inline-block;
+    width: 200px;
+    padding-top: 32px;
+    height: auto;
+}
+
+#caja1 h4 {
+    padding-bottom: 5px;
+}
+
+.p1 {
+    font-size: smaller;
+    text-align: inherit;
+}
+
+.btn1 {
+    background: linear-gradient(180deg, #5c94c0 0%, #0782b4 50%, #2668a0 100%);
+    color: #FFFFFF;
+    font: message-box;
+    width: inherit;
+    padding: 10px;
+    margin-block-end: 15px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #8e8e8e;
+    border: none;
+}
+
+.btn2 {
+    background: linear-gradient(180deg, #ebaa4f 0%, #ed901f 50%, #f17602 100%);
+    color: #FFFFFF;
+    font: message-box;
+    width: inherit;
+    padding: 10px;
+    margin-block-end: 20px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #8e8e8e;
+    border: none;
+    margin-top: -10px;
+}
+
+.ul1 {
+    background-image: url("../img/ad_background.png");
+    display: inline-block;
+    color: #FFFFFF;
+    font-size: x-large;
+    background-size: 415px 355px;
+    list-style: none;
+    padding: 10px;
+    padding-top: 20px;
+    text-align-last: center;
+    padding-bottom: 30px;
+}
+
+.ul1,
+li,
+p,
+img {
+    text-align: center;
+}
+
+.btn3 {
+    background: linear-gradient(180deg, #33c8df 0%, #33c8df 50%, #03c1df 100%);
+    color: #FFFFFF;
+    font: message-box;
+    width: 170px;
+    padding: 5px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272727;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#container2 {
+    background: linear-gradient(180deg, #edf7ff 0%, #ffffff 50%, #ffffff 100%);
+    display: inline-block;
+    width: 793px;
+    vertical-align: top;
+    padding-left: 2px;
+}
+
+.Dns {
+    display: inline-block;
+    color: #23659E;
+    font-weight: bolder;
+    vertical-align: top;
+    padding-top: 10px;
+}
+
+.phone {
+    display: inline-block;
+    vertical-align: super;
+    padding-left: 406px;
+    padding-top: 5px;
+}
+
+.ul2 {
+    display: inline-block;
+}
+
+.ul2 p {
+    color: #585858;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 45px;
+    letter-spacing: 0.32px;
+}
+
+.ul2 h3 {
+    color: #00C0DF;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+#content1 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#content1 h2 {
+    letter-spacing: 0.7px;
+    -webkit-text-stroke-width: thin;
+}
+
+.computersP {
+    padding: 10px 0px 5px 0px;
+    text-align: left;
+}
+
+.server {
+    padding-left: 245px;
+    padding-top: 31px;
+}
+
+.ul3,
+li,
+span {
+    text-align: left;
+    -webkit-text-stroke-width: thin;
+}
+
+.adjust {
+    -webkit-text-stroke-width: thin;
+}
+
+#content2 {
+    padding-top: 20px;
+}
+
+#content2,
+ol {
+    padding-top: 10px;
+    font-size: 15px;
+    padding-bottom: 3px;
+    line-height: 1.7;
+}
+
+#content3 {
+    padding-top: 20px;
+    padding-left: 10px;
+    display: inline-block;
+    border-left: 5px solid #0085E0;
+    border-top: 5px solid #0085E0;
+    border-right: 5px solid #0085E0;
+    width: 770px;
+    margin-top: 10px;
+    height: 125px;
+}
+
+.content3ul {
+    margin-left: 129px;
+    position: relative;
+    bottom: 126px;
+    text-align-last: left;
+}
